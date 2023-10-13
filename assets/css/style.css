@@ -1,0 +1,32 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+h1 {
+	color: #000;
+	font-size: 72px;
+	font-weight: 900;
+	line-height: 100px; 
+	text-transform: uppercase;
+ 
+}
+a {
+	padding: 12px 22px;
+	color: #FFF;
+	background-color: #000;
+  font-family: Poppins;
+	border-radius: 8px;
+}
+.hero {
+	width: 1200px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	background-color: #fafafa;
+	background-image: url(images/image.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	border-radius: 40px;
+}
+.hero__body {
+	width: 450px;
+}
